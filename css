@@ -1,0 +1,72 @@
+body{
+    background-image: url(https://cdn.hipwallpaper.com/i/62/26/HKoPzd.jpg);
+} 
+
+.login-bold {
+    text-align: center; 
+    padding-top: 20px;
+    font-family: 'Pacifico', cursive; 
+    font-size: 40px;
+} 
+
+.login-box { 
+    height : 530px; 
+    width : 290px; 
+    background-color: antiquewhite;  
+    margin : 50px 500px ;
+    border-radius: 30px;
+}
+
+.container{ 
+    padding-left : 30px; 
+    font-family: 'Syne', sans-serif;
+} 
+
+.username-box{
+    padding-bottom: 20px;
+} 
+
+button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 10px;  
+    margin-top: 23px; 
+    margin-bottom: 10px;
+    cursor: pointer;
+    width: 93% ;
+    border-radius: 30px;    
+    background-color: rgb(224, 25, 184); 
+    font-family: 'Staatliches', cursive;  
+    font-size: 20px;
+    font-weight: 20px; 
+ }  
+
+ button:hover {
+     opacity: 0.9;
+ }
+
+ .text {
+        text-align: center;
+        padding-top: 20px;
+ } 
+.fb-logo { 
+    margin-top: 10px; 
+    padding-left: 70px;
+    padding-top: 10px;
+} 
+
+.tw-logo {
+    margin-top: 20px; 
+    padding-left:10px;
+}
+.place , .place2 {
+    width : 90% ;
+    height : 28px; 
+    /* background-color: lawngreen;   */
+    border : none;  
+    border-radius: 8px;
+ }  
+
+.switch {
+    font-family: cursive;
+} 
